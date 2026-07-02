@@ -1,0 +1,25 @@
+project_id = "khwmphvcydnsoozdeage"
+
+[functions.analyze-soil]
+verify_jwt = false
+
+[functions.soil-tts]
+verify_jwt = false
+
+[functions.get-weather]
+verify_jwt = false
+
+[functions.generate-smart-notifications]
+verify_jwt = false
+
+[functions.populate-crops]
+verify_jwt = false
+
+[functions.fetch-news]
+verify_jwt = false
+
+[functions.chatbot-ai]
+verify_jwt = false
+
+[functions.get-market-prices]
+verify_jwt = false
