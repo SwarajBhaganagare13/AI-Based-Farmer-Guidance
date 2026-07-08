@@ -1,2 +1,1 @@
-=======
-# AI-Based-Farmer-Guidance
+AI-Based-Farmer-Guidance
