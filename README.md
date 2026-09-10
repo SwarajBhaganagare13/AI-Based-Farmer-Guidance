@@ -21,9 +21,9 @@ The system also includes a disease detection feature based on image analysis, an
 
 **Frontend:** React, TypeScript, Vite
 
-**Backend:** Supabase, PostgreSQL, Deno Edge Functions
+**Backend:** Supabase, PostgreSQL
 
-**AI/ML:** Google Gemini AI, RAG pipeline with FAISS
+**AI/ML:** Google Gemini AI
 
 ## How It Works
 
