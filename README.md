@@ -54,8 +54,6 @@ You'll need a Supabase project set up with the required tables/edge functions, a
 
 ## Screenshots
 
-## Screenshots
-
 ### Sign Up / Login
 <img width="1877" height="918" alt="SignUp" src="https://github.com/user-attachments/assets/763999c5-c107-4843-b567-1c40211615f4" />
 
@@ -90,3 +88,9 @@ You'll need a Supabase project set up with the required tables/edge functions, a
 - Add weather-based alerts and recommendations
 - Expand language support beyond English, Hindi, and Marathi
 - Mobile app version for easier field access
+
+## Author
+
+**Swaraj Bhaganagare**
+GitHub: [SwarajBhaganagare13](https://github.com/SwarajBhaganagare13)
+LinkedIn: [Swaraj Bhaganagare](https://www.linkedin.com/in/swaraj-bhaganagare-95510a2b7/)
