@@ -15,7 +15,7 @@ The system also includes a disease detection feature based on image analysis, an
 - AI chatbot ("Patil") for answering farming-related queries
 - Basic plant disease detection using colour thresholding and contour analysis
 - Multilingual support — English, Hindi, and Marathi
-- Retrieval-based responses (RAG) so chatbot answers stay grounded in relevant agricultural data
+- Retrieval-based responses so chatbot answers stay grounded in relevant agricultural data
 
 ## Tech Stack
 
@@ -30,7 +30,7 @@ The system also includes a disease detection feature based on image analysis, an
 1. A farmer enters details such as soil parameters or uploads a plant image.
 2. For soil-based queries, the system analyzes the input and suggests suitable crops along with relevant farming schedule guidance.
 3. For disease-related queries, the uploaded image is processed using colour thresholding and contour analysis to flag potential issues.
-4. The AI chatbot uses a RAG pipeline to pull relevant context before generating a response with Gemini, so answers stay grounded rather than generic.
+4. Integrated the Gemini API to develop an AI chatbot that provides agriculture-related guidance and answers user queries based on the provided context and prompts.
 5. All of this is available in the farmer's preferred language.
 
 ## Installation & Setup
